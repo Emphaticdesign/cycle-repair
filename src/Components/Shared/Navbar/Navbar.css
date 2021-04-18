@@ -1,0 +1,24 @@
+
+.logo-handle{
+    display: flex;
+}
+.logo-text-handle{
+    margin:10px 300px 0 10px;
+    display: inline-flex;
+    color: salmon;
+}
+.image-handle img{
+    width: 100px;
+}
+.image-handle{
+    margin-left: 50px;
+    width: fit-content;
+}
+
+.navbar-style{
+    margin-right: 50px;
+}
+.nav-item{
+    margin-right: 30px;
+    font-weight: 700;
+}

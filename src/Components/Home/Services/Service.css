@@ -1,0 +1,8 @@
+.service-container{
+    height:750px;
+    width: 100%;
+    position:relative;
+    background-image: url('../../../images/serviceBackground.jpg');
+    padding: 50px;
+    background-size: cover;
+}

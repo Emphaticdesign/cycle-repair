@@ -1,0 +1,21 @@
+.allOderServiceCard{
+    border-bottom: 1px solid dimgrey;
+}
+.allOderServiceCard h6{
+    margin: 20px;
+}
+.allOrderName{
+    width: 200px;
+}
+.allOrderEmail{
+    width: 300px;
+}
+.allOrderAddress{
+    width: 120px;
+}
+.allOrderPhone{
+    width: 100px;
+}
+.allOrderTitle{
+    width: 140px;
+}

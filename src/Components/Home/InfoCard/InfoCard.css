@@ -1,0 +1,13 @@
+.infoCard-bgColor{
+    background-color: #C85239;
+    border-radius: 5px;
+    height: 250px;
+    padding: 30px;
+    text-align: center;
+}
+.infoCard-bgColor:hover{
+    background-color: dimgrey;
+}
+.infoCard-icon{
+    font-size: 3em;
+}

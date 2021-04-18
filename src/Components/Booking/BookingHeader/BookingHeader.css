@@ -1,0 +1,12 @@
+
+.booking-header-container{
+    background-color: dimgrey;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.link-item{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
