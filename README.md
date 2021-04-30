@@ -31,7 +31,7 @@ SERVER REPO: https://github.com/Emphaticdesign/cycle-repair-server
 # Client Panel
 ![Client dashboard](https://user-images.githubusercontent.com/76814426/116685377-0c552680-a9d4-11eb-87bb-b1d17a40e5da.png)
  
-### Admin Panel
+## Admin Panel
  ![admin dashboard](https://user-images.githubusercontent.com/76814426/116685197-c4ce9a80-a9d3-11eb-8879-8e828251dd5d.png)
  
  
