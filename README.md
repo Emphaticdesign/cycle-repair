@@ -25,7 +25,14 @@ SERVER REPO: https://github.com/Emphaticdesign/cycle-repair-server
 
 ### Your Order
 
-![Your Order](https://user-images.githubusercontent.com/76814426/116684108-589f6700-a9d2-11eb-93ef-7ed1dc466181.png)
+![your order final](https://user-images.githubusercontent.com/76814426/116684844-4f62ca00-a9d3-11eb-8bd3-108c39b7509a.png)
 
 
 ### diffrent Betwin Admin Dashboard and Client Dashboard
+ # Client dashboard
+ ![Your Order](https://user-images.githubusercontent.com/76814426/116684641-00b53000-a9d3-11eb-8ed6-6efd734ceab8.png)
+ 
+ #Admin Dashboard
+ ![admin dashboard](https://user-images.githubusercontent.com/76814426/116685197-c4ce9a80-a9d3-11eb-8879-8e828251dd5d.png)
+ 
+ 
